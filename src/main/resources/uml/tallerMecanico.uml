@@ -2161,8 +2161,8 @@
   <standard:Create xmi:id="_jgBioMWLEe6GV74yg1DxAg" base_BehavioralFeature="_jf4_wMWLEe6GV74yg1DxAg"/>
   <Codegen:External xmi:id="_jiF_MMWLEe6GV74yg1DxAg" name="java.lang.Object" base_Classifier="_jh-DYMWLEe6GV74yg1DxAg"/>
   <Codegen:External xmi:id="_rm90kMWLEe6GV74yg1DxAg" name="java.time.format.DateTimeFormatter" base_Classifier="_rm3t8cWLEe6GV74yg1DxAg"/>
-  <Codegen:External xmi:id="_rnD7MMWLEe6GV74yg1DxAg" name="org.iesalandalus.programacion.tallermecanico.modelo.dominio.Cliente" base_Classifier="_jXDz4MWLEe6GV74yg1DxAg"/>
-  <Codegen:External xmi:id="_rnIzsMWLEe6GV74yg1DxAg" name="org.iesalandalus.programacion.tallermecanico.modelo.dominio.Vehiculo" base_Classifier="_rnFwYMWLEe6GV74yg1DxAg"/>
+  <Codegen:External xmi:id="_rnD7MMWLEe6GV74yg1DxAg" name="org.iesalandalus.programacion.tallermecanico.modelo.Cliente" base_Classifier="_jXDz4MWLEe6GV74yg1DxAg"/>
+  <Codegen:External xmi:id="_rnIzsMWLEe6GV74yg1DxAg" name="org.iesalandalus.programacion.tallermecanico.modelo.Vehiculo" base_Classifier="_rnFwYMWLEe6GV74yg1DxAg"/>
   <Codegen:External xmi:id="_rnOTQMWLEe6GV74yg1DxAg" name="java.time.LocalDate" base_Classifier="_rnKo4MWLEe6GV74yg1DxAg"/>
   <standard:Create xmi:id="_rnWPEMWLEe6GV74yg1DxAg" base_BehavioralFeature="_rnSksMWLEe6GV74yg1DxAg"/>
   <standard:Create xmi:id="_rnex8MWLEe6GV74yg1DxAg" base_BehavioralFeature="_rnbHkMWLEe6GV74yg1DxAg"/>
