@@ -18,7 +18,7 @@ class ClientesTest {
 
     @BeforeEach
     void init() {
-        clientes = new Clientes();
+        clientes = new Clientes(listaClientes);
         cliente1 = mock();
         when(cliente1.getDni()).thenReturn("11223344B");
         cliente2 = mock();
